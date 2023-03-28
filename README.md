@@ -1,5 +1,5 @@
 # UI-Elementi-PT2_1
-Proojekts, kas demostrē UI elementu lietojumu
+Projekts, kas demostrē UI elementu lietojumu
 Tēma: Mr Bean
 
 
