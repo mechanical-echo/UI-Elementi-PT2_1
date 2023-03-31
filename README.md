@@ -3,7 +3,7 @@ Projekts, kas demostrē UI elementu lietojumu
 Tēma: Mr Bean
 
 
-![Mr. Bean](https://w7.pngwing.com/pngs/373/961/png-transparent-mr-bean-internet-meme-humour-mr-bean-heroes-necktie-meme-thumbnail.png)
+![Mr. Bean](https://github.com/mechanical-echo/UI-Elementi-PT2_1/blob/master/Assets/Atteli/Bean.png?raw=true)
 
 
 
