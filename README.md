@@ -8,12 +8,12 @@ Tēma: Mr Bean
 
 
 ## Darāmo darbu saraksts
-- [ ] Input field lietojums
-- [ ] Text elementa lietojums
-- [ ] Button elementa lietojums
-- [ ] C# Skripta izveide un piesaiste objektam
-- [ ] Image elementa lietojums
-- [ ] Toggle elemnta lietojums
+- [x] Input field lietojums
+- [x] Text elementa lietojums
+- [x] Button elementa lietojums
+- [x] C# Skripta izveide un piesaiste objektam
+- [x] Image elementa lietojums
+- [x] Toggle elemnta lietojums
 - [ ] Toggle group elementa lietojums
 - [ ] Drop down elementa lietojums
 - [ ] Slider elementa lietojums
