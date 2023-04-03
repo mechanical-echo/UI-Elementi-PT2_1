@@ -14,7 +14,7 @@ Tēma: Mr Bean
 - [x] C# Skripta izveide un piesaiste objektam
 - [x] Image elementa lietojums
 - [x] Toggle elemnta lietojums
-- [ ] Toggle group elementa lietojums
+- [x] Toggle group elementa lietojums
 - [ ] Drop down elementa lietojums
 - [ ] Slider elementa lietojums
 - [ ] Audio source objekta lietojums
