@@ -17,8 +17,8 @@ Tēma: Mr Bean
 - [x] Toggle group elementa lietojums
 - [x] Drop down elementa lietojums
 - [x] Slider elementa lietojums
-- [ ] Audio source objekta lietojums
-- [ ] Scroll view elementa lietojums
+- [x] Audio source objekta lietojums
+- [x] Scroll view elementa lietojums
 - [ ] Drag and drop fukncionālitātes ieviešana
 - [ ] Parslegsanas starp ainam
 - [ ] Projekta sagatavošana .exe un WebGL formātos

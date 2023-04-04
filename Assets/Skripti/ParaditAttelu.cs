@@ -14,7 +14,14 @@ public class ParaditAttelu : MonoBehaviour
     public GameObject turnLeft;
     public GameObject currentPicture;       
     public Sprite[] pictures;               
-    public GameObject sizeSlider;           
+    public GameObject sizeSlider;
+    public GameObject rotationSlider;
+
+    public void Rotate()
+    {
+        float rotationBefore = rotationSlider.GetComponent<Slider>().value;
+        currentPicture.transform.localRotation = Quaternion.Euler(0, 0, rotationBefore * 360);
+    }
 
     public void ChangeSize()
     {
