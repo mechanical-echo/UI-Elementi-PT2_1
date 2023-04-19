@@ -1,8 +1,7 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
-public class CursorOnPicture : MonoBehaviour {
+public class CursorOnPicture : MonoBehaviour
+{
     public GameObject Bean;
     public AudioSource BeanAudioSource;
     public AudioClip BeanAudioClip;

@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 //To use scenes
 using UnityEngine.SceneManagement;
 public class AinuParsledzejs : MonoBehaviour

@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 
 public class ParaditAttelu : MonoBehaviour
@@ -12,8 +10,8 @@ public class ParaditAttelu : MonoBehaviour
 
     public GameObject turnRight;
     public GameObject turnLeft;
-    public GameObject currentPicture;       
-    public Sprite[] pictures;               
+    public GameObject currentPicture;
+    public Sprite[] pictures;
     public GameObject sizeSlider;
     public GameObject rotationSlider;
 
