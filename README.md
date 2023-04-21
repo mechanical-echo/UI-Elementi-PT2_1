@@ -20,5 +20,5 @@ Tēma: Mr Bean
 - [x] Audio source objekta lietojums
 - [x] Scroll view elementa lietojums
 - [x] Drag and drop fukncionālitātes ieviešana
-- [ ] Parslegsanas starp ainam
-- [ ] Projekta sagatavošana .exe un WebGL formātos
+- [x] Parslegsanas starp ainam
+- [x] Projekta sagatavošana .exe un WebGL formātos
